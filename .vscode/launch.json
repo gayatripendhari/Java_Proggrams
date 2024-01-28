@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Day06.staticvariabledemo.Demo",
+            "projectName": "Java_Proggrams_fabe36de"
+        },
+        {
+            "type": "java",
             "name": "HasADemo",
             "request": "launch",
             "mainClass": "Day05.association.hasademo.HasADemo",
