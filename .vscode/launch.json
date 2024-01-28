@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OverloadDemo",
+            "request": "launch",
+            "mainClass": "Day07.methodoverlodingdemo.OverloadDemo",
+            "projectName": "Java_Proggrams_fabe36de"
+        },
+        {
+            "type": "java",
             "name": "MyClassDemo",
             "request": "launch",
             "mainClass": "Day06.staticmethoddemo.MyClassDemo",
