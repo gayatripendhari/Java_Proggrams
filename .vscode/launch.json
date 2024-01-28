@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Day08.interfacedemo.Driver",
+            "projectName": "Java_Proggrams_fabe36de"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClassDemo",
+            "request": "launch",
+            "mainClass": "Day08.abstractclassdemo.AbstractClassDemo",
+            "projectName": "Java_Proggrams_fabe36de"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Day07.cloneableddemo.Driver",
+            "projectName": "Java_Proggrams_fabe36de"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Day07.covariantdemo.Demo",
+            "projectName": "Java_Proggrams_fabe36de"
+        },
+        {
+            "type": "java",
             "name": "OverridingDemo",
             "request": "launch",
             "mainClass": "Day07.overridingdemo.OverridingDemo",
